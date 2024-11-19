@@ -10,8 +10,7 @@ i love code!!
 * 🖥️  See my portfolio at [My webside](http://alwindonald.github.io/portfolio-alwin-donald/)
 * ✉️  You can contact me at [alwindonald4004@gmail.com](mailto:alwindonald4004@gmail.com)
 * 🧠  I'm learning node.js , version control , JS,java
-* 🤝  I'm open to collaborating on web development projects
-* ⚡  i'm learn many things on watching Anime .
+* 🤝  I'm open to collaborating on software development projects.
 
 <a href="https://www.github.com/alwindonald" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alwindonald?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/DonaldS53056" target="_blank" rel="noreferrer"><img
