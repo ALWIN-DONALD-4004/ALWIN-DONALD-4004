@@ -9,7 +9,7 @@ i love code!!
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My webside](http://alwindonald.github.io/portfolio-alwin-donald/)
 * ✉️  You can contact me at [alwindonald4004@gmail.com](mailto:alwindonald4004@gmail.com)
-* 🧠  I'm learning node.js , version control , JS , java , TS , Angular , DSA
+* 🧠  I'm learning node.js , version control , JS,java
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  i'm learn many things on watching Anime .
 
